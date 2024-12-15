@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+[CONTRIBUTING (1).md](https://github.com/user-attachments/files/18138767/CONTRIBUTING.1.md)
 ---
 title: Managing accessibility settings
 shortTitle: Manage accessibility settings
